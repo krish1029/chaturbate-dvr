@@ -21,7 +21,7 @@ import (
 )
 
 // chaturbateURL is the base url of the website.
-const chaturbateURL = "https://chaturbate.com/"
+const chaturbateURL = "https://stripchat.com/"
 
 // retriesAfterOnlined tells the retries for stream when disconnected but not really offlined.
 var retriesAfterOnlined = 0
